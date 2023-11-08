@@ -1,3 +1,4 @@
-# Curso Didigtal: Git
+# Curso Didigtal: Git/Versionamento
 
-## Gravando mudanças na repositório 
+
+# Salvando modificações no Git
